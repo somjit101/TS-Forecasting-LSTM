@@ -1,4 +1,4 @@
-# Time-Series-LSTM
+# Time Series Forecasting with LSTMs
 A detailed study on the use of Long Short Term Memory (LSTM) units for time series forecasting with climate data.
 
 ## Problem Statement
