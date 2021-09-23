@@ -10,7 +10,8 @@ It is safe to assume that there is a significant collinearity among all the para
 
 ## Dataset
 
-The [Max-Planck Institute Weather Dataset](https://www.bgc-jena.mpg.de/wetter/) is regularly maintained for numerous applications in scientific research and reporting. There are numerous atmospheric measurements which are updated in real time and can be used for our case study. 
+The [Max-Planck Institute Weather Data](https://www.bgc-jena.mpg.de/wetter/) is regularly maintained for numerous applications in scientific research and reporting. There are numerous atmospheric measurements which are updated in real time and can be used for our case study. </br>
+The specific dataset we have used here captures weather data from the year 2009 to 2016 and can be downloaded [here](https://storage.googleapis.com/tensorflow/tf-keras-datasets/jena_climate_2009_2016.csv.zip).
 
 ### Reference
 
