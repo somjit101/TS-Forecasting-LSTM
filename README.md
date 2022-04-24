@@ -3,7 +3,7 @@ A detailed study on the use of Long Short Term Memory (LSTM) units for time seri
 
 ## Problem Statement
 
-Here the problem statement is to predict future, unknown values in a time series depicting teh readings of various atmospheric measurements comprising the weather of a place like **temperature**, **pressure**, **pressure**, **wind velocity**, **wind direction** etc. given historical data readings of the same. 
+Here the problem statement is to predict future, unknown values in a time series depicting the readings of various atmospheric measurements comprising the weather of a place like **temperature**, **pressure**, **pressure**, **wind velocity**, **wind direction** etc. given historical data readings of the same. 
 
 We have implemented a simple moving average forecasting model as a reference model to demonstrate how the LSTM-based forecasting models perform with respect to the reference model. </br>
 It is safe to assume that there is a significant collinearity among all the parameters, i.e. the readings have an underlying relationship among them, i.e. they influence each other and not independent to each other. We will be examining this aspect by comparing the performances of both univariate and multivariate LSTM-based prediction models. 
